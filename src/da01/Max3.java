@@ -1,8 +1,8 @@
 package da01;
 
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
-
 import java.util.Scanner;
+//3개의 정숫값을 입력하고 최댓값을 구합니다.
+
 
 public class Max3 {
     public static void main(String[] args) {

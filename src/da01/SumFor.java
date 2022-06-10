@@ -1,6 +1,7 @@
 package da01;
 
 import java.util.Scanner;
+//1, 2, ..., n의 합을 구합니다.
 
 public class SumFor {
     public static void main(String[] args) {
