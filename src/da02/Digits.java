@@ -1,7 +1,7 @@
 package da02;
 
-
 import java.util.Scanner;
+//2자리의 양수(10~99)를 입력합니다.
 
 public class Digits {
     public static void main(String[] args) {
