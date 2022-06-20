@@ -1,8 +1,8 @@
 package da03;
 
-//입력 받은 10진수를 2진수~36진수로 기수 변환하여 나타냄
-
 import java.util.Scanner;
+
+//입력 받은 10진수를 2진수~36진수로 기수 변환하여 나타냄
 
 public class CardConvRev {
     static int cardConvR(int x, int r, char[] d) {

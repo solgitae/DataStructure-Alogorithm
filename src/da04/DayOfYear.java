@@ -2,6 +2,8 @@ package da04;
 
 import java.util.Scanner;
 
+//그 해 경과 일 수를 구함
+
 public class DayOfYear {
 
     static int[][] mdays = {

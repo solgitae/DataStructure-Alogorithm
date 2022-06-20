@@ -1,5 +1,7 @@
 package da03;
 
+//배열을 복제합니다.
+
 public class CloneArray {
     public static void main(String[] args) {
         int[] a = {1, 2, 3, 4, 5};

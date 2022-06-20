@@ -1,5 +1,7 @@
 package da04;
 
+//2행 4열의 2차원 배열
+
 public class Int2DArray {
     public static void main(String[] args) {
 

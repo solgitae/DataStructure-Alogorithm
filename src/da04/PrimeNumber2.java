@@ -1,5 +1,7 @@
 package da04;
 
+//1,000 이하의 소수를 열거(버전 2)
+
 public class PrimeNumber2 {
     public static void main(String[] args) {
         int counter = 0;
