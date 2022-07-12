@@ -2,6 +2,8 @@ package da08;
 
 import java.util.Scanner;
 
+//int형 큐의 사용 예
+
 public class IntQueueTester {
     public static void main(String[] args) {
         Scanner stdIn = new Scanner(System.in);

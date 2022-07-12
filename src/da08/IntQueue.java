@@ -1,6 +1,6 @@
 package da08;
 
-import da07.IntStack;
+//int형 큐
 
 public class IntQueue {
     private int max;
@@ -13,7 +13,6 @@ public class IntQueue {
         public EmptyIntQueueException() {
         }
     }
-
 
     public class OverflowIntQueueException extends RuntimeException {
         public OverflowIntQueueException() {

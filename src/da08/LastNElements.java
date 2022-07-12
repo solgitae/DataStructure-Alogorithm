@@ -2,6 +2,8 @@ package da08;
 
 import java.util.Scanner;
 
+//원하는 개수만큼 값을 입력 받아 요솟수가 N인 배열에 마지막 N개를 저장
+
 public class LastNElements {
     public static void main(String[] args) {
         Scanner stdIn = new Scanner(System.in);
